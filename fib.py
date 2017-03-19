@@ -2,6 +2,7 @@ def fibonaci(n):
     a = 0
     b = 1
     c = 0
+    print "start"
     for i in range(n):
         c = a + b
         a = b
