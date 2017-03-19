@@ -7,7 +7,7 @@ def fibonaci(n):
         a = b
         b = c
         
-        
+        print "Fibonaci"
         print 'i-->',i,'c===>',c
         
 
