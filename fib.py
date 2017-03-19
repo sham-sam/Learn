@@ -10,6 +10,7 @@ def fibonaci(n):
         
         print "Fibonaci"
         print 'i-->',i,'c===>',c
+        print "end"
         
 
 if __name__ == '__main__':
