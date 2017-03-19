@@ -11,6 +11,7 @@ def fibonaci(n):
         print "Fibonaci"
         print 'i-->',i,'c===>',c
         print "end"
+        print "test"
         
 
 if __name__ == '__main__':
